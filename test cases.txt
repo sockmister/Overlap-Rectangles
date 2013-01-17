@@ -1,0 +1,20 @@
+TEST CASES
+
+General Case:
+0 100
+100 200
+150 100
+100 100
+
+Negative Numbers:
+-10 -50
+10 50
+-10 -50
+10 50
+
+-10 -50
+50 10
+40 -45
+100 100
+
+Touching Case:
